@@ -4,7 +4,7 @@
   
 # Docker-Compose 
 
-  A dockerlized docker-compose image for linux/arm64, linux/arm, linux/amd64. 
+  A dockerlized docker-compose image for linux/arm64, linux/arm, linux/amd64. It shall work with Raspberry Pi.
 
 # How to use this image
 
