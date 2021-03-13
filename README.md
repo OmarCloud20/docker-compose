@@ -1,6 +1,6 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/apptower/docker-compose?color=00e68a)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/AppTower/docker-compose?label=latest&sort=semver&color=cc99ff)
-[Shields.io](https://github.com/badges/shields) for Docker :whale:
+
 
 [Shields.io](https://img.shields.io/static/v1?label=64ARM&message=RaspberryPi4&color=red)
 
