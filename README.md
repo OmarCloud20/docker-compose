@@ -1,6 +1,6 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/AppTower/docker-compose?label=latest&sort=semver&color=cc99ff)
 ![RPI](https://img.shields.io/static/v1?label=64ARM&message=Raspberry-Pi-4&color=red)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial%26url%3Dhttps%253A%252F%252Ftwitter.com%252FOmar_cloud20) 
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FOmar_cloud20)
   
 # Docker-Compose 
 
