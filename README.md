@@ -2,9 +2,9 @@
 ![RPI](https://img.shields.io/static/v1?label=64ARM&message=Raspberry-Pi-4&color=red)
   
   
-# What is this
+# Docker-Compose 
 
-  A dockerlized docker-compose image for linux/arm64, linux/arm, linux/amd64.
+  A dockerlized docker-compose image for linux/arm64, linux/arm, linux/amd64. 
 
 # How to use this image
 
