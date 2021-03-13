@@ -1,5 +1,5 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/AppTower/docker-compose?label=latest&sort=semver&color=cc99ff)
-![RPI](https://img.shields.io/static/v1?label=64ARM&message=Raspberry Pi 4&color=red)
+![RPI](https://img.shields.io/static/v1?label=64ARM&message=Raspberry-Pi-4&color=red)
   
   
 # What is this
